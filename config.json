@@ -1,19 +1,19 @@
 {
 	"head": {
-		"title": "SimonAKing",
-		"description": "Author:SimonAKing,Category:Personal Blog",
+		"title": "Cyautu",
+		"description": "Author:Cyautu,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "SimonAKing",
-		"subtitle": "Front back left right end engineer",
+		"title": "Cyautu",
+		"subtitle": "你真的觉得你能置身事外是吧？",
 		"enter": "enter",
-		"supportAuthor": true,
+		"supportAuthor": false,
 		"background": true
 	},
 	"main": {
-		"name": "SimonAKing",
-		"signature": "Code & Input & Output",
+		"name": "Cyautu",
+		"signature": "A lot can happen between now and never.",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "100",
@@ -21,7 +21,7 @@
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
+				"href": "https://nzynl.top/",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
@@ -31,12 +31,12 @@
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:hi@simonaking.com",
+				"href": "mailto:1070177565@qq.com",
 				"icon": "email",
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "https://github.com/SimonAKing",
+				"href": "https://github.com/Cyautu",
 				"icon": "github",
 				"text": "Github"
 			}
