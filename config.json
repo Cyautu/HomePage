@@ -23,17 +23,17 @@
 			"first": {
 				"href": "https://blog.nzynl.top/",
 				"icon": "bokeyuan",
-				"text": "Blog"
+				"text": "博客"
 			},
 			"second": {
-				"href": "https://about.nzynl.top/",
-				"icon": "xiaolian",
-				"text": "About"
+				"href": "https://pan.nzynl.top/",
+				"icon": "wangpan",
+				"text": "网盘"
 			},
 			"third": {
 				"href": "mailto:1070177565@qq.com",
-				"icon": "email",
-				"text": "Email"
+				"icon": "youjian",
+				"text": "电子邮件"
 			},
 			"fourth": {
 				"href": "https://github.com/Cyautu",
